@@ -24,3 +24,5 @@ the lost cost J(w).
 \prod \bigcup \frac{\partial^2 {_{}}^{}}{\partial x^2}
 
 $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\prod&space;\bigcup&space;\frac{\partial^2&space;{_{}}^{}}{\partial&space;x^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\prod&space;\bigcup&space;\frac{\partial^2&space;{_{}}^{}}{\partial&space;x^2}" title="\prod \bigcup \frac{\partial^2 {_{}}^{}}{\partial x^2}" /></a>
