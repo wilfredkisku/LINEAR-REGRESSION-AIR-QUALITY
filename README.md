@@ -21,4 +21,6 @@ P(hw(x) − y)x
 With each step of the gradient descent the parameters w comes closer to the optimal values that will achieve
 the lost cost J(w).
 
+\prod \bigcup \frac{\partial^2 {_{}}^{}}{\partial x^2}
+
 $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
