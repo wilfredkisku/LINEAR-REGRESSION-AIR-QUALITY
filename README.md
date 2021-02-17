@@ -4,7 +4,7 @@ The model chosen is a simple linear regression model with training being carried
 the number of samples are quite large as it has been sampled from the year 2008 to 2018.
 In regression we would model a hypothesis that would be used to predict the output of the next days
 concentration of SO2, PM2.5 and O3. A linear hypothesis is selected as the prediction is to made over a
-range of real values R. The hypothesis is h<sub>w<\sub>(x). A cost function is to be calculated to penalize the hypothesis
+range of real values R. The hypothesis is h<sub>w</sub>(x). A cost function is to be calculated to penalize the hypothesis
 as to obtain the correct set of parameters w.
 J(w) = 1
 2m
