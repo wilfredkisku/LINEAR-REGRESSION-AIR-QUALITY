@@ -13,11 +13,11 @@ We need to model a predictive learning model to estimate the future dated values
 ## Model Description
 A linear hypothesis is selected as the prediction is to made over a range of real values R. The hypothesis is h<sub>w</sub>(x). A cost function is to be calculated to penalize the hypothesis as to obtain the correct set of parameters w.
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=J(w)&space;=&space;\frac{1}{2m}&space;\sum{(h_w(x)&space;-&space;y)^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?J(w)&space;=&space;\frac{1}{2m}&space;\sum{(h_w(x)&space;-&space;y)^2}" title="J(w) = \frac{1}{2m} \sum{(h_w(x) - y)^2}" /></a>
+<div style="text-align:center"><a href="https://www.codecogs.com/eqnedit.php?latex=J(w)&space;=&space;\frac{1}{2m}&space;\sum{(h_w(x)&space;-&space;y)^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?J(w)&space;=&space;\frac{1}{2m}&space;\sum{(h_w(x)&space;-&space;y)^2}" title="J(w) = \frac{1}{2m} \sum{(h_w(x) - y)^2}" /></a></div>    
 
 Weight update can be effected using the gradient descent expression:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=w&space;:=&space;w_i&space;-&space;\eta&space;\frac{1}{m}\sum{(h_w(x)-y)&space;\times&space;x}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?w&space;:=&space;w_i&space;-&space;\eta&space;\frac{1}{m}\sum{(h_w(x)-y)&space;\times&space;x}" title="w := w_i - \eta \frac{1}{m}\sum{(h_w(x)-y) \times x}" /></a>
+<div style="text-align:center"><a href="https://www.codecogs.com/eqnedit.php?latex=w&space;:=&space;w_i&space;-&space;\eta&space;\frac{1}{m}\sum{(h_w(x)-y)&space;\times&space;x}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?w&space;:=&space;w_i&space;-&space;\eta&space;\frac{1}{m}\sum{(h_w(x)-y)&space;\times&space;x}" title="w := w_i - \eta \frac{1}{m}\sum{(h_w(x)-y) \times x}" /></a></div> 
 
 ## Result
 The plots are individual column value plots(altimeter, air temperature etc.) in relation with the concentrations of the pollutants. Since the models includes multiple features, it is multi-dimensional is nature making it hard to get a visual representation of the features in relation to the output concentration
