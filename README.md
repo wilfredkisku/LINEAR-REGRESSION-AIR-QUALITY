@@ -10,6 +10,11 @@ We need to model a predictive learning model to estimate the future dated values
   <li>The complete matrix contain the X matrix (D features + 1 bias) concatinated with the output vector Y. So the matrix would be of the dimension m × D+2, where m is the total number of samples (or) rows in the matrix (data points).</li>
 </ul>
 
+## Model Description
+A linear hypothesis is selected as the prediction is to made over a range of real values R. The hypothesis is h<sub>w</sub>(x). A cost function is to be calculated to penalize the hypothesis as to obtain the correct set of parameters w.
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 ## Result
 The plots are individual column value plots(altimeter, air temperature etc.) in relation with the concentrations of the pollutants. Since the models includes multiple features, it is multi-dimensional is nature making it hard to get a visual representation of the features in relation to the output concentration
 of the pollutants.
