@@ -6,7 +6,7 @@ We need to model a predictive learning model to estimate the future dated values
 ## Preprocessing
 <ul>
   <li>There were two datasets that has to be accessed and consolidated, the MesoWest dataset for the features and the AQS dataset to obtain the particulate matter concentration in the air.</li>
-  <li>The Datasets had a missing and uncomputable values such as <code>’NA’</code>, ’N/A’, ’na’, ’n/a’, ’--’, ’-’, Null being some of the most common missing values in the dataset.</li>
+  <li>The Datasets had a missing and uncomputable values such as <tt>’NA’</tt>, <tt>’N/A’</tt>, <tt>’na’</tt>, <tt>’n/a’</tt>, <tt>’--’</tt>, <tt>’-’</tt>, <tt>Null</tt> being some of the most common missing values in the dataset.</li>
   <li></li>
   <li></li>
 </ul>
