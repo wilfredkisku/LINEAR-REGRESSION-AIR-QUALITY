@@ -24,3 +24,5 @@ The plots are individual column value plots(altimeter, air temperature etc.) in 
 of the pollutants.
 
 It can be seen that the it would be very difficult to get a linear relation between the concentration of the pollutants, here below is the concentration of O<sub>3</sub>, with just a single meteorological data such as pressure, temperature or humidity. So including multiple features would make it easier to draw a relation between the output concentrations and the features.
+
+Status: Completed
